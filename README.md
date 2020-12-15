@@ -8,9 +8,6 @@ Simple template with `SCSS` and support IE edge+.
 
 ```bash
 npm install
-```
-
-```bash
 npm run dev
 ```
 
